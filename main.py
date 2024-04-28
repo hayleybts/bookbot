@@ -1,5 +1,5 @@
 def main():
-    book_path = "/mnt/c/Users/Thrishala s kariyar/Documents/workspace/github.com/hayley/bookbot/books/f.txt"
+    book_path = "/mnt/c/Users/hayley/Documents/workspace/github.com/hayley/bookbot/books/f.txt"
     text = get_book_text(book_path)
     num_words = get_num_words(text)
 
